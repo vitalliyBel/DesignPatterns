@@ -17,7 +17,7 @@ public class AnExperiencedWitcher extends TheWitcherDecor{
     @Override
     public String signsOfTheWitcher(){
 
-        return super.signsOfTheWitcher() + ;
+        return super.signsOfTheWitcher() + "Quen" + "Yerden";
 
     }
 
